@@ -3,6 +3,8 @@
 
 This website is intended for an online coffee shop.
 
+This project was built using HTML, CSS, and some JavaScript. All block layouts were made using flexbox.
+
 ## Authors
 
 - [@Dmytro Vyshnevskyi](https://github.com/OxDV)
